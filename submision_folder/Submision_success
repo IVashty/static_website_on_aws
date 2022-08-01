@@ -1,0 +1,64 @@
+Static website deployment
+
+Meets Specifications
+Congratulations!!!
+
+Great work :muscle: You have added all necessary items and have completed this project:tada:
+
+You've also highlighted all necessary parts of this project which helped to notice all required things smoothly.
+
+Keep it up and best of luck:thumbsup:
+Keep Learning and Stay Udacian
+
+:udacious:
+Website Files
+
+✔️ The S3 bucket is visible in the AWS Management console.
+Awesome!!
+
+✔️ Nice work with the S3 bucket. Your S3 bucket is completely visible in the screenshot you have added:clap:
+
+created_my_bucket.png
+
+✔️ The student has submitted a screenshot showing all the website files uploaded to the newly created S3 bucket.
+Great Work!!
+
+All files uploaded in the S3 bucket are visible in the screenshot
+
+added_files_to_bucket.png
+
+✔️ The S3 bucket is configured to support static website hosting.
+Nice!!!
+
+✔️ You have configured the bucket properly to support static website hosting:thumbsup:
+
+configure_to_staticwebsite.png
+
+✔️ The bucket should allow public access. The S3 bucket has an IAM bucket policy that makes the bucket contents publicly accessible.
+Awesome!!
+
+The bucket's IAM policy is configured properly :clap:
+
+bucket_policy.png
+Website Distribution
+
+✔️ CloudFront has been configured to retrieve and distribute website files.
+Great!!
+
+✔️ The provided screenshot proves that you had done a great job to configure the Cloud Front service:v:
+
+cloudfront_configured.png
+Web Browser Access
+
+✔️ The website should be accessible to anyone on the Internet via a web browser. The student should have provided the CloudFront domain name URL and website-endpoint URL for the website.
+Nice!!!
+
+Your website is accessible to anyone on internet completely
+Download projects in the bellow links 
+Project submision folder link:https://docs.google.com/document/d/1ttxVFAzMURUZttoe6EQMVF4kTIBn721TwmLa046nxfI/edit?usp=sharing
+cloudfrontweb address: https://d91vv4r4no5h4.cloudfront.net/udacity-starter-website/
+aws website: http://my-staticprofile.s3-website-us-east-1.amazonaws.com/udacity-starter-website/
+
+
+
+
